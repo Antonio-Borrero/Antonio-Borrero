@@ -1,16 +1,27 @@
-## Hi there 👋
+```javascript
 
-<!--
-**Antonio-Borrero/Antonio-Borrero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+// Welcome to my GitHub
 
-Here are some ideas to get you started:
+const aboutMe = {
+  name: "Antonio Borrero",
+  role: "Full Stack Developer",
+  description: "Passionate about building web applications and learning new technologies 💻"
+};
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+const techStack = () => {
+  return {
+    frontEnd: ["HTML", "CSS", "CSS Modules", "JavaScript", "React", "Tailwind", "Bootstrap"],
+    backEnd: ["Python", "Flask", "APIs"],
+    dataBase: ["SQLAlchemy"],
+    tools: ["Git", "GitHub", "VS Code"]
+  };
+};
+
+const currentlyLearning = ["TypeScript", "Node.js", "Angular"];
+
+const workingOn = "Creating my own portfolio 🌟";
+
+const contact = {
+  email: "antojoseabad@gmail.com",
+  linkedIn: "https://www.linkedin.com/in/antonio-bg20/"
+};
