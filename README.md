@@ -17,7 +17,7 @@ const techStack = () => {
   };
 };
 
-const currentlyLearning = ["TypeScript", "Node.js", "Angular"];
+const currentlyLearning = ["Java", "Angular"];
 
 const workingOn = "Creating my own portfolio 🌟";
 
