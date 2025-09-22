@@ -10,7 +10,7 @@ const aboutMe = {
 
 const techStack = () => {
   return {
-    frontEnd: ["HTML", "CSS", "CSS Modules", "JavaScript", "React", "Tailwind", "Bootstrap"],
+    frontEnd: ["HTML", "CSS", "CSS Modules", "JavaScript", "TypeScript", "React", "Next.js", "Tailwind", "Bootstrap"],
     backEnd: ["Python", "Flask", "APIs"],
     dataBase: ["SQLAlchemy"],
     tools: ["Git", "GitHub", "VS Code"]
