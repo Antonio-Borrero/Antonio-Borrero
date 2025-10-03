@@ -1,6 +1,6 @@
 # Welcome!
 
-!Hello, and welcome to my GitHub profile.
+!Hello, and welcome to my GitHub profile!.
 
 My name is **Antonio** and I am a Full Stack developer passionate about building web applications and learning new technologies 💻
 
