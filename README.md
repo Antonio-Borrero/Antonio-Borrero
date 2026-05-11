@@ -1,37 +1,44 @@
-# Welcome!
+# Hi there!
 
-!Hello, and welcome to my GitHub profile!.
+I'm Antonio, a **Full Stack Developer**. 
 
-My name is **Antonio** and I am a Full Stack developer passionate about building web applications and learning new technologies 💻
+Programming is something I genuinely enjoy, and I spend my time building projects to better understand how modern web applications work. I don't claim to have all the answers, but I do have a strong commitment to learning, improving my code, and solving problems as best as i can.
 
-## Tech Stack:
+<br>
 
-### FrontEnd: [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=white)](https://www.typescriptlang.org/) [![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)](https://angular.io/) [![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)](https://nextjs.org/) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://www.javascript.com/) [![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)](https://reactjs.org/)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/es/docs/Web/HTML) [![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)](https://developer.mozilla.org/es/docs/Web/CSS) [![CSS Modules](https://img.shields.io/badge/CSS%20Modules-000000?logo=css3&logoColor=white)](https://github.com/css-modules/css-modules) [![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwind-css&logoColor=white)](https://tailwindcss.com/) [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+## Tech Stack
 
-### BackEnd: [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/) [![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)](https://flask.palletsprojects.com/) [![APIs](https://img.shields.io/badge/APIs-FF6F61)](https://en.wikipedia.org/wiki/API)
+### **FrontEnd:** ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
 
-### DataBase: [![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-000000?logo=sqlalchemy&logoColor=white)](https://www.sqlalchemy.org/)
+### **BackEnd & DataBase:** ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-000000?logo=sqlalchemy&logoColor=white)
 
-### Testing: [![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white)](https://jestjs.io/)
+### **Testing:** ![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white)
 
-### Tools: [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)](https://git-scm.com/) [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/) [![VS Code](https://img.shields.io/badge/VS%20Code-0078D7?logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/) 
+### **Tools:** ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 
+<br>
 
-## Currently Learning: 
-[![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)](https://www.java.com/) 
+## Featured Projects
 
-## Working On:
+| Project | Tech Stack | Description |
+| :--- | :--- | :--- |
+| **[Habits Tracker](https://github.com/Antonio-Borrero/proyecto-final-4Geeks)** | React, Flask, SQL | A full-stack application to log and monitor daily habits. |
+| **[Maps App](https://github.com/Antonio-Borrero/maps-app-angular)** | Angular, Mapbox, Signals | An app to practice interactive maps and dynamic markers. |
+| **[Country App](https://github.com/Antonio-Borrero/country-app-angular)** | Angular, REST API | A search tool for world data using the REST Countries API. |
+| **[Gifs App](https://github.com/Antonio-Borrero/gifs-app-angular)** | Angular, Giphy API | A simple GIF search engine with search history. |
 
-Create my own portfolio.
+<br>
 
 ## GitHub Stats:
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Antonio-Borrero&show_icons=true&theme=dark)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=Antonio-Borrero&show_icons=true&theme=dark&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=Antonio-Borrero&layout=compact&theme=dark&hide_border=true" />
+</p>
 
-## Used Lenguages:
+<br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Antonio-Borrero&layout=compact&theme=dark)
-
-
-
+## Connect with me:
+- [LinkedIn](https://www.linkedin.com/in/antonio-b-fullstack/)
+- [Email](mailto:antojoseabad@gmail.com)
+- [Portfolio](https://antonioborrero.dev) (Coming soon!)
